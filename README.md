@@ -24,3 +24,7 @@ This project contains the dataset of the credit card transactions made in Europe
 
 here Class means that if it is 0, the Transactions are not fraud but if it is 1 this means that transaction is fraud.
 
+| Class | total_amount | 
+| ----- |--------------| 
+| 0     | 25102462.04  | 
+| 1     | 60127.97     | 
