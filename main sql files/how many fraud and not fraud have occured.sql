@@ -7,4 +7,4 @@ FROM
 GROUP BY
     FLOOR(Time / 3600)
 ORDER BY
-    hour
+    hour;
